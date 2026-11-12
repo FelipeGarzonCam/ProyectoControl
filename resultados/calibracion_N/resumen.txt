@@ -1,0 +1,3 @@
+8 corridas x 5 vueltas = 40 vueltas (120 deg/s, sentido +)
+Cuentas por vuelta: 4345.98 +- 2.36 (min 4342, max 4351)
+N = 98.772 +- 0.008 (error estandar). Corte 2: 97.87

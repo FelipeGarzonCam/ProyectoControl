@@ -1,0 +1,41 @@
+corrida,hora,N_en_firmware,vuelta,cuentas
+1,130155,97.87 (Corte 2),1,4348
+1,130155,97.87 (Corte 2),2,4350
+1,130155,97.87 (Corte 2),3,4342
+1,130155,97.87 (Corte 2),4,4345
+1,130155,97.87 (Corte 2),5,4347
+2,130254,calibrado,1,4345
+2,130254,calibrado,2,4344
+2,130254,calibrado,3,4345
+2,130254,calibrado,4,4348
+2,130254,calibrado,5,4346
+3,130354,calibrado,1,4342
+3,130354,calibrado,2,4348
+3,130354,calibrado,3,4346
+3,130354,calibrado,4,4345
+3,130354,calibrado,5,4349
+4,130511,calibrado,1,4349
+4,130511,calibrado,2,4348
+4,130511,calibrado,3,4345
+4,130511,calibrado,4,4348
+4,130511,calibrado,5,4344
+5,130612,calibrado,1,4342
+5,130612,calibrado,2,4345
+5,130612,calibrado,3,4347
+5,130612,calibrado,4,4344
+5,130612,calibrado,5,4345
+6,130712,calibrado,1,4346
+6,130712,calibrado,2,4347
+6,130712,calibrado,3,4343
+6,130712,calibrado,4,4347
+6,130712,calibrado,5,4351
+7,130847,calibrado,1,4344
+7,130847,calibrado,2,4344
+7,130847,calibrado,3,4350
+7,130847,calibrado,4,4348
+7,130847,calibrado,5,4343
+8,130932,calibrado,1,4346
+8,130932,calibrado,2,4348
+8,130932,calibrado,3,4347
+8,130932,calibrado,4,4346
+8,130932,calibrado,5,4342
